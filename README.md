@@ -1,6 +1,6 @@
-# PlaceDE Bot
-Fork von PlaceNL Bot. Thanks guys!  
-Der Bot für PlaceDE! Dieser Bot holt automatisch alle paar Minuten [Pläne](https://github.com/placeDE/pixel), um zu verhindern, dass Bots miteinander kollidieren.
+# Stirni Bot
+Fork von PlaceDE Bot. Danke Jungs! 
+Der Bot für Operation Stirni! Dieser Bot holt automatisch alle paar Minuten [Pläne](https://github.com/nvalis/pixel), um zu verhindern, dass Bots miteinander kollidieren.
 
 ## Installationsanweisungen
 
